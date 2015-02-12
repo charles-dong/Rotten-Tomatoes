@@ -3,7 +3,7 @@
 Total hours: 13
 
 GIF Walkthrough:
-
+![alt tag](https://github.com/charles-dong/Rotten-Tomatoes/blob/master/rotten_tomatoes.gif)
 
 Required:
 
