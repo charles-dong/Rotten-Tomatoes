@@ -57,11 +57,9 @@
                                                                                              animations:^{
                                                                                                  self.movieImage.alpha = 1.0;
                                                                                              }];
-                                                                            
                                                                         }
                                                                         failure:NULL
                                          ];
-                                        
                                     }
                                     failure:NULL
      ];
